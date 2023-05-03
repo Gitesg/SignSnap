@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/eng"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/buttonEnglish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English" />
+
+    <Button
+        android:id="@+id/buttonHindi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hindi" />
+
+    <Button
+        android:id="@+id/buttonMarathi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Marathi" />
+
+    <!-- Add more language buttons here as needed -->
+
+</LinearLayout>

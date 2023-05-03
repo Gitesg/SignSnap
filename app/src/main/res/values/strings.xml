@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>marathi</item>
+    </string-array>
+
+</resources>
